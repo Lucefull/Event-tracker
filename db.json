@@ -1,0 +1,39 @@
+{
+  "eventos": [
+    {
+      "descricao": "Estudar React",
+      "inicio": "2022-12-01T09:00",
+      "fim": "2022-12-01T13:00",
+      "completo": false,
+      "id": 10
+    },
+    {
+      "descricao": "Estudar Recoil",
+      "inicio": "2022-12-01T09:00",
+      "fim": "2022-12-30T11:00",
+      "completo": false,
+      "id": 15
+    },
+    {
+      "descricao": "Estudar Recoil",
+      "inicio": "2022-10-01T09:00",
+      "fim": "2022-12-01T11:00",
+      "completo": false,
+      "id": 20
+    },
+    {
+      "descricao": "Estudar Typescript",
+      "inicio": "2022-12-01T09:00",
+      "fim": "2022-12-01T11:00",
+      "completo": false,
+      "id": 101
+    },
+    {
+      "descricao": "Estudar Recoil",
+      "inicio": "2022-12-01T09:00",
+      "fim": "2022-12-01T11:00",
+      "completo": false,
+      "id": 150
+    }
+  ]
+}
